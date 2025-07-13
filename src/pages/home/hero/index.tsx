@@ -19,7 +19,7 @@ const Hero = () => {
             />
           </div>
           <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
-            Hi, I'm John Lloyd Centeno
+            Hi, I&apos;m John Lloyd Centeno
           </h1>
           <p className="mt-6 text-lg leading-8 text-muted-foreground max-w-2xl mx-auto">
             I build full-stack web applications with clean interfaces and

@@ -11,7 +11,7 @@ const Contact = () => {
             Get In Touch
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            I'm always open to discussing new opportunities, interesting
+            I&apos;m always open to discussing new opportunities, interesting
             projects, or just having a chat about technology.
           </p>
         </div>
