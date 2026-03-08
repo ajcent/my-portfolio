@@ -2,7 +2,6 @@
 
 import { projects } from "@/constants/home.constants";
 import { Badge } from "@/components/ui/badge";
-import { ArrowRight } from "lucide-react";
 import { useState } from "react";
 
 export function Work() {

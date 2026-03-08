@@ -7,7 +7,7 @@ export function Contact() {
       <div className="max-w-6xl mx-auto px-6">
         <div className="grid md:grid-cols-2 gap-16 items-start mb-20">
           <div>
-            <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-8">Let's Connect</h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-8">Let&apos;s Connect</h2>
             <div className="flex gap-2">
               <div className="w-12 h-1.5 bg-primary" />
               <div className="w-8 h-1.5 bg-accent opacity-50" />
@@ -15,8 +15,8 @@ export function Contact() {
           </div>
           <div>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I'm always interested in new challenges, collaborations, and conversations about design and technology.
-              Reach out if you'd like to talk.
+              I&apos;m always interested in new challenges, collaborations, and conversations about design and
+              technology. Reach out if you&apos;d like to talk.
             </p>
           </div>
         </div>
