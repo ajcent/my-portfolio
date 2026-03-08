@@ -1,12 +1,12 @@
 import { Linkedin, Github } from "lucide-react";
 
 export const skills = [
-  { name: "UI/UX Design", icon: "✏️" },
-  { name: "React & TypeScript", icon: "⚛️" },
-  { name: "Design Systems", icon: "🎨" },
-  { name: "Figma & Prototyping", icon: "🎭" },
-  { name: "Tailwind CSS", icon: "🎯" },
-  { name: "User Research", icon: "🔍" },
+  { name: "React & Next.js", icon: "⚛️" },
+  { name: "C# & .NET", icon: "⚙️" },
+  { name: "Python & FastAPI", icon: "🐍" },
+  { name: "Express & Node.js", icon: "🚀" },
+  { name: "IoT & MQTT", icon: "📡" },
+  { name: "Docker & AWS", icon: "🐳" },
 ];
 
 export const projects = [
